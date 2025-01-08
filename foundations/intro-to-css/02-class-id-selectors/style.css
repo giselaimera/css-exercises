@@ -1,0 +1,15 @@
+.para{
+    background-color: rgb(203, 135, 135);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#one{
+    color: blue;
+    font-size: 36px;
+}
+.fonts{
+    font-size: 24px;
+}
+#two{
+    background-color: lightgreen;
+    font-weight: bold;
+}
